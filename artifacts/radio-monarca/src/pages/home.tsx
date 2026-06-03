@@ -92,7 +92,7 @@ export default function HomePage() {
               Transmitiendo desde Contepec, Michoacán
             </div>
             
-            <h1 className="text-5xl md:text-7xl font-serif font-bold mb-6 leading-tight">
+            <h1 className="text-3xl sm:text-4xl md:text-7xl font-serif font-bold mb-6 leading-tight break-words">
               El Latido de <br/>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">Nuestra Tierra</span>
             </h1>
