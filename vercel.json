@@ -1,7 +1,13 @@
 {
-  "framework": "vite",
-  "outputDirectory": "dist",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
+    {
+      "source": "/(.*)",
+      "destination": "/dist/index.mjs"
+    }
+  ],
+  "functions": {
+    "dist/index.mjs": {
+      "runtime": "nodejs20.x"
+    }
+  }
 }
