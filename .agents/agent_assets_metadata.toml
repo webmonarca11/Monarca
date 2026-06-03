@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "X_ueBRM-Eri319BS6xR-o"
+uri = "file://artifacts/radio-monarca/public/hero-bg.png"
+type = "image"
+title = "Monarch butterflies at golden hour"
+
+[[generated]]
+id = "g1HPCgnkea5hDFc4a51nZ"
+uri = "file://artifacts/radio-monarca/public/about-image.png"
+type = "image"
+title = "Warm radio broadcast booth"
